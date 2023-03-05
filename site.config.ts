@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '9fc4005ace274416bf5d756d02c4700a',
+  rootNotionPageId: 'Home-96ce09b46e0341ebbb080cde34d547b8',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: "d438f9ea-c9ef-4898-ab16-bc9242467f4e",
+  rootNotionSpaceId: "b955c0a2-5773-4e4c-9324-0443d7f35a39",
 
   // basic site info (required)
-  name: 'lizhimiao的博客',
-  domain: 'lizhimiao.com',
-  author: 'zhimiao li',
+  name: '鹏的小Home',
+  domain: 'notion.wpeng.ga',
+  author: 'Wpenga',
 
   // open graph metadata (optional)
   description: '笔记、博客和其他记录',
 
   // social usernames (optional)
-  twitter: '_lizhimiao',
-  github: 'zhimiaoli',
-  linkedin: 'lizhimiao',
+  twitter: 'none',
+  github: 'Wpenga',
+  linkedin: 'none',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
